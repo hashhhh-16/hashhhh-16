@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-Hi, I'm Hasini 👋  <br>A passionate developer focused on building efficient and scalable solutions.<br><br>- 🌱 Currently learning: Data Structures & Algorithms, React, APIs <br>- 🛠️ Tech I use: HTML, CSS, Javascript, Python, React<br>- 💻 Interested in: Web Development & Problem Solving  <br>- 🚀 Working on: Improving coding skills and building real-world projects  <br>- 🎯 Goal: Become a strong problem solver and full-stack developer  <br>- 📫 Reach me at: your-email@example.com
+Hi, I'm Hasini 👋  <br>A passionate developer focused on building efficient and scalable solutions.<br><br>- 🌱 Currently learning: Data Structures & Algorithms, React, APIs <br>- 🛠️ Tech I use: HTML, CSS, Javascript, Python, React<br>- 💻 Interested in: Web Development & Problem Solving  <br>- 🚀 Working on: Improving coding skills and building real-world projects  <br>- 🎯 Goal: Become a strong problem solver and full-stack developer  <br>- 📫 Reach me at: hasini16.m@gmail.com
 
 
 ## 🌐 Socials:
